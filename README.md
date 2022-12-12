@@ -1,5 +1,7 @@
 # La mente es maravillosa
 
+Realizada en conjunto con Emanuel Chacon
+
 Pagina web realizada con React js, metodologia BEM, uso de CSS3, JavaScript.
 La seccion contactanos incluye un Form manual.
 La seccion Faq, cuenta con un Faq de tipo acordeon, en donde el usuario clickea en la pregunta y se despliega la respuesta.
